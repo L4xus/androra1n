@@ -36,7 +36,7 @@ exit 1
 
 esac
 
-wget http://cdimage.ubuntu.com/ubuntu-base/releases/${UBUNTU_VERSION}/release/ubuntu-base-${UBUNTU_VERSION}-base-${ARCHITECTURE}.tar.gz -q -O ubuntu.tar.gz 
+wget http://cdimage.ubuntu.com/ubuntu-base/releases/bionic/release/ubuntu-base-${UBUNTU_VERSION}-base-${ARCHITECTURE}.tar.gz -q -O ubuntu.tar.gz 
 printf "\x1b[38;5;214m[${time1}]\e[0m \x1b[38;5;83m[Installer thread/INFO]:\e[0m \x1b[38;5;87m Download complete!\n"
 
 fi
