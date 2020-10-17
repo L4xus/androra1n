@@ -3,7 +3,7 @@
 
 ## What's This?
 
-This is a script by which you can install Ubuntu in your termux application without a rooted device
+This is a script by which you can install Ubuntu in your termux application without a rooted device but updated for checkra1n JB
 
 ## Updates
 **• Updated to ubuntu 20.04**
